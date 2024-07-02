@@ -109,5 +109,5 @@ Para contribuir a este proyecto, sigue estos pasos:
 
 2.Realiza los cambios y haz un commit (git commit -m "Descripción de los cambios").
 
-3.Sube los cambios a la rama (git push origin nombre-tu-rama).
+3.Sube los cambios a la rama (git push origin nombre-de-rama).
 

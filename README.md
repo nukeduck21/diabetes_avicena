@@ -105,9 +105,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 ## Contribuciones
 Para contribuir a este proyecto, sigue estos pasos:
 
-1.Crea una nueva rama (git checkout -b nombre-de-tu-rama).
+1.Crea una nueva rama (git checkout -b nombre-de-rama).
 
 2.Realiza los cambios y haz un commit (git commit -m "Descripción de los cambios").
 
-3.Sube los cambios a la rama (git push origin nombre-de-tu-rama).
+3.Sube los cambios a la rama (git push origin nombre-tu-rama).
 

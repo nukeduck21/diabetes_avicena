@@ -129,7 +129,7 @@ La guía de instalación debe contener de manera específica:
 - Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
 - Pasos específicos para la compilación del código fuente y ejecución.
 
-### Dependencias
+## Dependencias
 ---
 Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
 

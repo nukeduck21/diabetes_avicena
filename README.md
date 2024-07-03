@@ -33,11 +33,14 @@ Para utilizar este repositorio, sigue los siguientes pasos:
   
 2.Explorar los datos
 
-	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la crapeta 'diabetes_avicena/', donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/' dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
+	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la crapeta 'diabetes_avicena/',
+ 	donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/'
+      dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
 
 3.Visualiza resultados
 
-  	Los resultados de los análisis y modelos se guardan en la carpeta 'diabetes_avicena/'. Utilizando los Notebook y scripts proporcionados para visualizar y entender estos resultados.
+  	Los resultados de los análisis y modelos se guardan en la carpeta 'diabetes_avicena/'. Utilizando los Notebook y scripts
+   	proporcionados para visualizar y entender estos resultados.
    
 ## Tecnologías utilizadas
   Para utilizar localmente, necesitamos lo siguiente:

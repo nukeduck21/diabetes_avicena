@@ -14,6 +14,7 @@
 - [Información adicional](información-adicional)
 
 ## Introducción
+---
 La diabetes es una enfermedad crónica que afecta la manera en que el cuerpo convierte el alimento en energía. Cuando el nivel de azúcar
 
 en la sangre aumenta, el páncreas libera insulina, que actúa como una llave para permitir que la glucosa entre en las células del cuerpo
@@ -29,6 +30,7 @@ Existen varios tipos de diabetes, los más comunes son:
   	- Diabetes gestacional: Ocurre durante el embarazo y puede aumentar el riesgo de desarrollar diabetes tipo 2 más adelante.
 
 ## Uso
+---
 Para utilizar este repositorio, sigue los siguientes pasos:
 
 1.Clona el repositorio
@@ -46,6 +48,7 @@ Para utilizar este repositorio, sigue los siguientes pasos:
    	proporcionados para visualizar y entender estos resultados.
    
 ## Tecnologías utilizadas
+---
   Para utilizar localmente, necesitamos lo siguiente:
 
    - Un sistema operativo compatible (Windows, macOS o Linux)
@@ -59,6 +62,7 @@ Para utilizar este repositorio, sigue los siguientes pasos:
    - Cloud sorce: Plataforma para alojar el repositorio y colaboración en el desarrollo del proyecto.
 
 ## Instalación
+---
 Para instalar sigue estros pasos:
 
 1.Clona el repositorio
@@ -94,6 +98,7 @@ Para instalar sigue estros pasos:
       git push
 
 ## Requisitos previos
+---
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 - Git
@@ -101,6 +106,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - Visual Studio Code (o cualquier otro editor de código )
   
 ## Contribuciones
+---
 Para contribuir a este proyecto, sigue estos pasos:
 
 1.Lista los branches (git branch).

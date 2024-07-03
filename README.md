@@ -9,9 +9,9 @@
 - [Requisitos previos](#requisitos-previos)
 - [Contribuciones](#contribuciones)
 - [Descripción y contexto](#descripción-y-contexto)
-- [Guía de instalación](guía-de-instalación)
-- [Dependencias](dependencias)
-- [Información adicional](información-adicional)
+- [Guía de instalación](#guía-de-instalación)
+- [Dependencias](#dependencias)
+- [Información adicional](#información-adicional)
 
 ## Introducción
 ---

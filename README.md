@@ -136,3 +136,4 @@ Descripción de los recursos externos que generan una dependencia para la reutil
 ## Información adicional
 ---
 Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
+

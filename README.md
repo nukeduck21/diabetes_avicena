@@ -39,7 +39,7 @@ Para utilizar este repositorio, sigue los siguientes pasos:
   
 2.Explorar los datos
 
-	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la crapeta 'diabetes_avicena/',
+	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
  	donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/'
       dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
 
@@ -56,21 +56,21 @@ Para utilizar este repositorio, sigue los siguientes pasos:
      
    - Visual Studio Code: Entorno de desarrollar.
 
-   - Python: Lenguaje de programación principal utilizado para el análisis de datos y la construción de modelos.
+   - Python: Lenguaje de programación principal utilizado para el análisis de datos y la construcción de modelos.
      
-   - Git: Sistema de control de versiones utilizado para gestionae el código fuente del proyecto.
+   - Git: Sistema de control de versiones utilizado para gestionar el código fuente del proyecto.
      
    - Cloud sorce: Plataforma para alojar el repositorio y colaboración en el desarrollo del proyecto.
 
 ## Instalación
 ---
-Para instalar sigue estros pasos:
+Para instalar sigue estos pasos:
 
 1.Clona el repositorio
 
  	git clone https://source.developers.google.com/p/co-keralty-costomedico/r/diabetes_avicena
        
-2.Navegamos asta la direccion de la carpeta
+2.Navegamos hasta la dirección de la carpeta
    
       cd repo-remoto
   
@@ -104,7 +104,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 - Git
 - Python 
-- Visual Studio Code (o cualquier otro editor de código )
+- Visual Studio Code (o cualquier otro editor de código)
   
 ## Contribuciones
 ---

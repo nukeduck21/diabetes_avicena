@@ -8,6 +8,10 @@
 - [Instalación](#instalación)
 - [Requisitos previos](#requisitos-previos)
 - [Contribuciones](#contribuciones)
+- [Descripción y contexto](#descripción-y-contexto)
+- [Guía de instalación](guía-de-instalación)
+- [Dependencias](dependencias)
+- [Información adicional](información-adicional)
 
 ## Introducción
 La diabetes es una enfermedad crónica que afecta la manera en que el cuerpo convierte el alimento en energía. Cuando el nivel de azúcar
@@ -34,8 +38,7 @@ Para utilizar este repositorio, sigue los siguientes pasos:
 2.Explorar los datos
 
 	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la crapeta 'diabetes_avicena/',
- 	donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/'
-      dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
+ 	donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/' dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
 
 3.Visualiza resultados
 
@@ -108,4 +111,25 @@ Para contribuir a este proyecto, sigue estos pasos:
 
 4.Sube los cambios a la rama (git push origin nombre-de-rama).
 
+## Descripción y contexto
+---
+Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+ 	
+## Guía de instalación
+---
+Paso a paso de cómo instalar la herramienta digital. En esta es recomendable explicar la arquitectura de carpetas y módulos que componen el sistema.
 
+Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
+
+La guía de instalación debe contener de manera específica:
+- Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
+- Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
+- Pasos específicos para la compilación del código fuente y ejecución.
+
+### Dependencias
+---
+Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
+
+## Información adicional
+---
+Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.

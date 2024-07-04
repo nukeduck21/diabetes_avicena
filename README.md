@@ -108,7 +108,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
   
 ## Contribuciones
 ---
-¡Gracias por interés en contribuir en este proyecto!, Nos complace recibir correcciones y ideas. 
+¡Gracias por interesarse en contribuir en este proyecto!, Nos complace recibir correcciones e ideas. 
 
 Para contribuir a este proyecto, sigue estos pasos:
 
@@ -122,7 +122,7 @@ Para contribuir a este proyecto, sigue estos pasos:
 
 - Reporta errores encontrados durante las pruebas.
 
-### Codigo:
+### Código:
 
 - Optimizar y mejorar el rendimiento del código.
 

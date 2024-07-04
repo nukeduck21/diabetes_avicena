@@ -108,7 +108,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
   
 ## Contribuciones
 ---
-¡Gracias por tu interés en contribuir en este proyecto!
+¡Gracias por interés en contribuir en este proyecto!
 
 Nos complace recibir correcciones y ideas. 
 

@@ -108,15 +108,23 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
   
 ## Contribuciones
 ---
+¡Gracias por interés en contribuir en este proyecto!, Nos complace recibir correcciones y ideas. 
+
 Para contribuir a este proyecto, sigue estos pasos:
 
-1.Lista los branches (git branch).
+### Documentación:
 
-2.Crea una nueva rama (git checkout nombre-de-rama).
+- Actualizar o mejora la documentación existente.
 
-3.Realiza los cambios y haz un commit (git commit -m "Descripción de los cambios").
+- Añadir comentarios al código para explicar su funcionamiento.
 
-4.Sube los cambios a la rama (git push origin nombre-de-rama).
+### Pruebas:
+
+- Reporta errores encontrados durante las pruebas.
+
+### Codigo:
+
+- Optimizar y mejorar el rendimiento del código.
 
 ## Descripción y contexto
 ---

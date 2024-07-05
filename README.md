@@ -39,9 +39,105 @@ Para utilizar este repositorio, sigue los siguientes pasos:
   
 2.Explorar los datos
 
-	El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
- 	donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore'. luego encontraras en la carpeta 'Codigo/'
-      dos carpetas mas: 'Docker/', 'Notebook/' para explorar y analizar estos datos.
+El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
+donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore' y 'README.md'. luego encontraras en la carpeta 'Codigo/'
+dos carpetas mas: 'Docker/', 'Notebook/' y un archivo 'README.md', para explorar y analizar estos datos.
+
+Este proyecto contiene la siguiente estructura de carpetas y archivos:
+
+'diabetes_avicena/'
+
+'Codigo/'
+
+'Docker/'
+
+      - 'primera_entrega/'
+      
+'client/'
+
+'api/'
+
+'endpoint/'
+
+ 	- 'diabetes.py'
+	- 'restplus.py'
+	- 'serializers.py'
+	- 'settings.py'
+ 	- 'utils.py'
+  	- 'main.py'
+  	- 'requirements.txt'
+
+'deploy/'
+
+'api/'
+
+'static/'
+
+ 	- 'diabetes.webp'
+ 	- 'no-diabetes.webp'
+
+'templates/'
+
+ 	- 'index.html'
+ 	- 'result.html'
+	- 'restplus.py'
+	- 'utils.py'
+
+'gcp/'
+
+'api/'
+
+ 	- 'endpoint.py'
+  	- 'restplus.py'
+  	- 'serializers.py'
+  	- 'settings.py'
+  	- 'utils.py'
+  	- 'Dockerfile'
+  	- 'main.py'
+  	- 'requirements.txt'
+  	- 'Dockerfile'
+  	- 'main.py'
+  	- 'README.md'
+      - 'requirements.txt'
+
+'train/'
+
+'deploy/'
+
+'api/'
+
+'endpoint/'
+
+       - 'create_training_data.py'
+       - 'diabetes_masterClass.py'
+       - 'diabetes_train.py'
+       - 'params.py'
+       - 'utils.py'
+       - 'restplus.py'
+       - 'serializers.py'
+       - 'settings.py'
+       - 'main.py'
+       - 'README.md'
+       - 'requirements.txt'
+       -'consolidacion_data.ipynb'
+
+'Notebook/'
+
+'segunda_entrega/'
+
+'analisis/'
+
+      - 'analisisInicial.ipynb'
+      - 'requirements.txt' 
+      - 0_consolidacion_data.ipynb
+      - 1_primerEjercicio_prediccion.ipynb
+      - 'README.md'
+
+'Documentacion/'
+
+     - 'README.md'
+     - '.gitignore'
+     - 'README.md'
 
 3.Visualiza resultados
 

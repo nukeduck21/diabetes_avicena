@@ -52,6 +52,7 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 'Docker/'
 
 	- 'primera_entrega/'
+---
 
 'client/'
 
@@ -60,12 +61,17 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 'endpoint/'
 
  	- 'diabetes.py'
+---
+
 	- 'restplus.py'
 	- 'serializers.py'
 	- 'settings.py'
  	- 'utils.py'
+---
+
   	- 'main.py'
   	- 'requirements.txt'
+---
 
 'deploy/'
 
@@ -75,11 +81,13 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
  	- 'diabetes.webp'
  	- 'no-diabetes.webp'
+---
 
 'templates/'
 
  	- 'index.html'
  	- 'result.html'
+---
 	- 'restplus.py'
 	- 'utils.py'
 
@@ -87,18 +95,26 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
 'api/'
 
- 	- 'endpoint.py'
+	- 'endpoint.py'
   	- 'restplus.py'
   	- 'serializers.py'
   	- 'settings.py'
   	- 'utils.py'
+   
+---
+
   	- 'Dockerfile'
   	- 'main.py'
   	- 'requirements.txt'
+   
+---
+
   	- 'Dockerfile'
   	- 'main.py'
   	- 'README.md'
 	- 'requirements.txt'
+ 
+ ---
  
 'train/'
 
@@ -113,12 +129,17 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
        - 'diabetes_train.py'
        - 'params.py'
        - 'utils.py'
+---
        - 'restplus.py'
        - 'serializers.py'
        - 'settings.py'
+       
+---
+
        - 'main.py'
        - 'README.md'
        - 'requirements.txt'
+---
        - 'consolidacion_data.ipynb'
 
 'Notebook/'
@@ -129,15 +150,22 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
       - 'analisisInicial.ipynb'
       - 'requirements.txt' 
+      
+---
+
       - '0_consolidacion_data.ipynb'
       - '1_primerEjercicio_prediccion.ipynb'
+      - '2_ajustes_hiperparametros.ipynb'
+---
       - 'README.md'
-
+---
 'Documentacion/'
 
      - 'README.md'
+---
      - '.gitignore'
      - 'README.md'
+
 
 3.Visualiza resultados
 

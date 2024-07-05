@@ -39,26 +39,25 @@ Para utilizar este repositorio, sigue los siguientes pasos:
   
 2.Explorar los datos
 
-El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
-donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore' y 'README.md'. luego encontraras en la carpeta 'Codigo/'
-dos carpetas mas: 'Docker/', 'Notebook/' y un archivo 'README.md', para explorar y analizar estos datos.
+      El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
+      donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore' y 'README.md'. luego encontraras en la carpeta 'Codigo/'
+      dos carpetas mas: 'Docker/', 'Notebook/' y un archivo 'README.md', para explorar y analizar estos datos.
 
 Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
-'diabetes_avicena/'
+### 'diabetes_avicena/'
 
-'Codigo/'
+### 'Codigo/'
 
-'Docker/'
+### 'Docker/'
 
-	- 'primera_entrega/'
----
+### 'primera_entrega/'
 
-'client/'
+### 'client/'
 
-'api/'
+### 'api/'
 
-'endpoint/'
+### 'endpoint/'
 
  	- 'diabetes.py'
 ---
@@ -73,17 +72,17 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
   	- 'requirements.txt'
 ---
 
-'deploy/'
+### 'deploy/'
 
-'api/'
+### 'api/'
 
-'static/'
+### 'static/'
 
  	- 'diabetes.webp'
  	- 'no-diabetes.webp'
 ---
 
-'templates/'
+### 'templates/'
 
  	- 'index.html'
  	- 'result.html'
@@ -91,9 +90,9 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 	- 'restplus.py'
 	- 'utils.py'
 
-'gcp/'
+### 'gcp/'
 
-'api/'
+### 'api/'
 
 	- 'endpoint.py'
   	- 'restplus.py'
@@ -116,13 +115,13 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
  
  ---
  
-'train/'
+### 'train/'
 
-'deploy/'
+### 'deploy/'
 
-'api/'
+### 'api/'
 
-'endpoint/'
+### 'endpoint/'
 
        - 'create_training_data.py'
        - 'diabetes_masterClass.py'
@@ -142,11 +141,11 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 ---
        - 'consolidacion_data.ipynb'
 
-'Notebook/'
+### 'Notebook/'
 
-'segunda_entrega/'
+### 'segunda_entrega/'
 
-'analisis/'
+### 'analisis/'
 
       - 'analisisInicial.ipynb'
       - 'requirements.txt' 
@@ -159,7 +158,7 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 ---
       - 'README.md'
 ---
-'Documentacion/'
+### 'Documentacion/'
 
      - 'README.md'
 ---

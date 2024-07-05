@@ -51,8 +51,8 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
 'Docker/'
 
-      - 'primera_entrega/'
-      
+	- 'primera_entrega/'
+
 'client/'
 
 'api/'
@@ -98,8 +98,8 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
   	- 'Dockerfile'
   	- 'main.py'
   	- 'README.md'
-      - 'requirements.txt'
-
+	- 'requirements.txt'
+ 
 'train/'
 
 'deploy/'
@@ -119,7 +119,7 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
        - 'main.py'
        - 'README.md'
        - 'requirements.txt'
-       -'consolidacion_data.ipynb'
+       - 'consolidacion_data.ipynb'
 
 'Notebook/'
 
@@ -129,8 +129,8 @@ Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
       - 'analisisInicial.ipynb'
       - 'requirements.txt' 
-      - 0_consolidacion_data.ipynb
-      - 1_primerEjercicio_prediccion.ipynb
+      - '0_consolidacion_data.ipynb'
+      - '1_primerEjercicio_prediccion.ipynb'
       - 'README.md'
 
 'Documentacion/'

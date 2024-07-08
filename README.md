@@ -33,13 +33,11 @@ Existen varios tipos de diabetes, los más comunes son:
 ---
 Para utilizar este repositorio, sigue los siguientes pasos:
 
-1.Clona el repositorio
+<b>1.</b>Clona el repositorio
 
  	git clone https://source.developers.google.com/p/co-keralty-costomedico/r/diabetes_avicena
   
-2.Explorar los datos
-
-Este proyecto contiene la siguiente estructura de carpetas y archivos:
+<b>2.</b>Explorar los datos
 
 El repositorio incluye diversos conjuntos de datos sobre diabetes, La organización de estos datos 
 
@@ -81,7 +79,144 @@ y el código asociado se distribuye de la siguiente manera:
 	otra información para los desarrolladores y usuarios del repositorio.
  ---
  
-3.Visualiza resultados
+ Este proyecto contiene la siguiente estructura de carpetas y archivos:
+
+ diabetes_avicena/
+
+├── Codigo/
+
+├── Docker/
+
+├── primera_entrega/
+
+│ ├── client/
+
+│ ├── api/
+
+│ │ ├── endpoint/
+
+│ │ │ └── diabetes.py
+
+│ ├── restplus.py
+
+│ ├── serializers.py
+
+│ ├── settings.py
+
+│ ├── utils.py
+
+│ ├── main.py
+
+│ ├── requirements.txt
+
+├── deploy/
+
+├── api/
+
+│ ├── static/
+
+│ │ ├── diabetes.webp
+
+│ │ └── no-diabetes.webp
+
+│ ├── templates/
+
+│ │ ├── index.html
+
+│ │ └── result.html
+
+│ ├── restplus.py
+
+│ └── utils.py
+
+├── gcp/
+
+│ ├── api/
+
+│ │ ├── endpoint.py
+
+│ │ ├── restplus.py
+
+│ │ ├── serializers.py
+
+│ │ ├── settings.py
+
+│ │ └── utils.py
+
+│ ├── Dockerfile
+
+│ ├── main.py
+
+│ ├── requirements.txt
+
+│ ├── Dockerfile
+
+│ ├── main.py
+
+│ ├── README.md
+
+│ └── requirements.txt
+
+├── train/
+
+│ ├── deploy/
+
+│ │ ├── api/
+
+│ │ │ ├── endpoint/
+
+│ │ │ │ ├── create_training_data.py
+
+│ │ │ │ ├── diabetes_masterClass.py
+
+│ │ │ │ ├── diabetes_train.py
+
+│ │ │ │ ├── params.py
+
+│ │ │ │ └── utils.py
+
+│ │ │ ├── restplus.py
+
+│ │ │ ├── serializers.py
+
+│ │ │ ├── settings.py
+
+│ │ │ ├── main.py
+
+│ │ │ ├── README.md
+
+│ │ │ └── requirements.txt
+
+│ │ └── consolidacion_data.ipynb
+
+├── Notebook/
+
+├── segunda_entrega/
+
+│ ├── analisis/
+
+│ │ ├── analisisInicial.ipynb
+
+│ │ └── requirements.txt
+
+│ ├── 0_consolidacion_data.ipynb
+
+│ ├── 1_primerEjercicio_prediccion.ipynb
+
+│ ├── 2_ajustes_hiperparametros.ipynb
+
+│ ├── README.md
+
+├── Documentacion/
+
+│ └── README.md
+
+├── .gitignore
+
+├── README.md
+
+
+<b>3.</b>Visualiza resultados
 
   	Los resultados de los análisis y modelos se guardan en la carpeta 'diabetes_avicena/'. Utilizando los Notebook y scripts
    	proporcionados para visualizar y entender estos resultados.
@@ -104,35 +239,35 @@ y el código asociado se distribuye de la siguiente manera:
 ---
 Para instalar sigue estos pasos:
 
-1.Clona el repositorio
+<b>1.</b>Clona el repositorio
 
  	git clone https://source.developers.google.com/p/co-keralty-costomedico/r/diabetes_avicena
        
-2.Navegamos hasta la dirección de la carpeta
+<b>2.</b>Navegamos hasta la dirección de la carpeta
    
       cd repo-remoto
   
       cd diabetes_avicena
   
-3.Lista un estado actual del repositorio con lista de archivos modificados o agregados
+<b>3.</b>Lista un estado actual del repositorio con lista de archivos modificados o agregados
 
       git status
 
-4.Añadimos todos los archivos para el commit
+<b>4.</b>Añadimos todos los archivos para el commit
    
       git add .
    
       git add archivo.txt
 
-5.Hacemos el primer commit
+<b>5.</b>Hacemos el primer commit
    
       git commit -m "Texto que identifique porque se hizo el commit"
 
-6.Busca los cambios nuevos y actualiza el repositorio
+<b>6.</b>Busca los cambios nuevos y actualiza el repositorio
    
       git pull
 
-7.subimos al repositorio
+<b>7.</b>subimos al repositorio
    
       git push
 

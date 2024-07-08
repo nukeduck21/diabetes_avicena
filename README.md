@@ -39,133 +39,48 @@ Para utilizar este repositorio, sigue los siguientes pasos:
   
 2.Explorar los datos
 
-      El repositorio incluye diversos conjuntos de datos sobre diabetes. Puedes encontrar los datos en la carpeta 'diabetes_avicena/',
-      donde al ingrezar encontraremos 'Codigo/', 'Documentacion/'y un archivo '.gitignore' y 'README.md'. luego encontraras en la carpeta 'Codigo/'
-      dos carpetas mas: 'Docker/', 'Notebook/' y un archivo 'README.md', para explorar y analizar estos datos.
-
 Este proyecto contiene la siguiente estructura de carpetas y archivos:
 
-### 'diabetes_avicena/'
+El repositorio incluye diversos conjuntos de datos sobre diabetes, La organización de estos datos 
 
-### 'Codigo/'
+y el código asociado se distribuye de la siguiente manera:
 
-### 'Docker/'
+### Estructura del repositorio:
 
-### 'primera_entrega/'
+	- 'diabetes_avicena/': Es la carpeta principal que contiene todos los datos y código relacionados 
 
-### 'client/'
-
-### 'api/'
-
-### 'endpoint/'
-
- 	- 'diabetes.py'
----
-
-	- 'restplus.py'
-	- 'serializers.py'
-	- 'settings.py'
- 	- 'utils.py'
----
-
-  	- 'main.py'
-  	- 'requirements.txt'
----
-
-### 'deploy/'
-
-### 'api/'
-
-### 'static/'
-
- 	- 'diabetes.webp'
- 	- 'no-diabetes.webp'
----
-
-### 'templates/'
-
- 	- 'index.html'
- 	- 'result.html'
----
-	- 'restplus.py'
-	- 'utils.py'
-
-### 'gcp/'
-
-### 'api/'
-
-	- 'endpoint.py'
-  	- 'restplus.py'
-  	- 'serializers.py'
-  	- 'settings.py'
-  	- 'utils.py'
-   
----
-
-  	- 'Dockerfile'
-  	- 'main.py'
-  	- 'requirements.txt'
-   
----
-
-  	- 'Dockerfile'
-  	- 'main.py'
-  	- 'README.md'
-	- 'requirements.txt'
+	con el proyecto de diabetes.
  
  ---
+
+	- 'Codigo/': Dentro de esta carpeta se encuentra el desarrollo del proyecto, al desplegar esta 
+
+	carpeta, encontrarás varios tipos de archivos y subcarpetas.
+
+ ---
+
+	-'Docker/': Contiene la carpeta de primera entrega con codigo Python, facilitandon el análisis 
+
+	de los datos.
+
+ ---
+
+	-'Notebook/': Contiene la carpeta de segunda entrega con codigo Python, que facilita la explicación
+
+	y análisis de los datos.
+ ---
+
+	- 'Documentacion/': Esta carpeta contiene un documento 'README.md'.
+ ---
+
+	- '.gitignore': Espesifica que archivos o directorios deben ser ignorados y no incluidos.
+ ---
+
+	- 'README.md': Proporciona una visión general del proyecto, instruciones de uso, y cualquiero 
+
+	otra información para los desarrolladores y usuarios del repositorio.
+ ---
  
-### 'train/'
-
-### 'deploy/'
-
-### 'api/'
-
-### 'endpoint/'
-
-       - 'create_training_data.py'
-       - 'diabetes_masterClass.py'
-       - 'diabetes_train.py'
-       - 'params.py'
-       - 'utils.py'
----
-       - 'restplus.py'
-       - 'serializers.py'
-       - 'settings.py'
-       
----
-
-       - 'main.py'
-       - 'README.md'
-       - 'requirements.txt'
----
-       - 'consolidacion_data.ipynb'
-
-### 'Notebook/'
-
-### 'segunda_entrega/'
-
-### 'analisis/'
-
-      - 'analisisInicial.ipynb'
-      - 'requirements.txt' 
-      
----
-
-      - '0_consolidacion_data.ipynb'
-      - '1_primerEjercicio_prediccion.ipynb'
-      - '2_ajustes_hiperparametros.ipynb'
----
-      - 'README.md'
----
-### 'Documentacion/'
-
-     - 'README.md'
----
-     - '.gitignore'
-     - 'README.md'
-
-
 3.Visualiza resultados
 
   	Los resultados de los análisis y modelos se guardan en la carpeta 'diabetes_avicena/'. Utilizando los Notebook y scripts
